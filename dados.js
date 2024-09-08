@@ -18,7 +18,12 @@ let dados = [
         titulo: "Auxiliar de Cozinha",
         descricao: "Um auxiliar de cozinha auxilia no preparo de alimentos, realiza a higienização de utensílios e equipamentos, organiza a cozinha e auxilia na montagem de pratos.",
         link: "https://www.ocupacoes.com.br/cbo-mte/513505-auxiliar-nos-servicos-de-alimentacao"
-    }
+    },
+    {
+    titulo: "Garçom/Garçonete",
+    descricao: "Responsável por atender os clientes, anotar pedidos, servir alimentos e bebidas, organizar mesas e manter o ambiente limpo e agradável.",
+    link: "https://www.ocupacoes.com.br/cbo-mte/513405-garcom" 
+}
 ];
 
 
